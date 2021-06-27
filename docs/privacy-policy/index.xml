@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Privecy &amp; Policy on Lumbini</title>
-    <link>http://lumbini.co.uk/privacy-policy/</link>
+    <link>https://labrunning.github.io/lumbini/privacy-policy/</link>
     <description>Recent content in Privecy &amp; Policy on Lumbini</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://lumbini.co.uk/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://labrunning.github.io/lumbini/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

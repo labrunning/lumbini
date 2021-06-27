@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terms of Service on Lumbini</title>
-    <link>http://lumbini.co.uk/terms-conditions/</link>
+    <link>https://labrunning.github.io/lumbini/terms-conditions/</link>
     <description>Recent content in Terms of Service on Lumbini</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://lumbini.co.uk/terms-conditions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://labrunning.github.io/lumbini/terms-conditions/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
