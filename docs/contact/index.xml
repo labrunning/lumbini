@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact Us on Lumbini</title>
-    <link>https://labrunning.github.io/lumbini/contact/</link>
+    <link>https://www.lumbini.co.uk/contact/</link>
     <description>Recent content in Contact Us on Lumbini</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://labrunning.github.io/lumbini/contact/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.lumbini.co.uk/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

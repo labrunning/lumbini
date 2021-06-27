@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://labrunning.github.io/lumbini/"
+baseURL = "https://www.lumbini.co.uk"
 title = "Lumbini"
 theme = "bigspring"
 publishDir = "docs"
