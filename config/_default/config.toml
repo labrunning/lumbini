@@ -1,0 +1,15 @@
+######################## default configuration ####################
+baseURL = "http://lumbini.co.uk/"
+title = "Lumbini"
+theme = "bigspring"
+# post pagination
+paginate = "3"
+# post excerpt
+summaryLength = "15"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# google analytics
+googleAnalytics = "G-RLDWX62Z7Z" # example : UA-123-45
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
