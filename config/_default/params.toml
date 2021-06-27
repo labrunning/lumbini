@@ -1,10 +1,10 @@
 #################### default parameters ################################
-logo = "images/lumbini-logo-005.png"
+logo = "images/lumbini-logo-006.png"
 logo_width = "200px"
 # OpenGraph / Twitter Card metadata
 description = "This is the Lumbini Consultancy website"
 author = "Themefisher"
-image = "images/lumbini-logo-005.png" # this image will be used as fallback if a page has no image of its own
+image = "images/lumbini-logo-006.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
