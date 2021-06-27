@@ -2,6 +2,7 @@
 baseURL = "http://lumbini.co.uk/"
 title = "Lumbini"
 theme = "bigspring"
+publishDir = "docs"
 # post pagination
 paginate = "3"
 # post excerpt
