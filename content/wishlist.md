@@ -24,7 +24,9 @@ There's always lots of video games on my Steam wishlist.
 
 ## But I want to BUY you something
 
-Okey, I hear you. Here's a Google spreadsheet with some ideas on. But please add something to the "Purchased" column so others know you've made the purchase! This is on you guys… 
+Okey, I hear you. Here's a Google spreadsheet with some ideas on. You'll need a google account to use this but honestly who doesn't have one of those. **But please add something to the "Purchased" column so others know you've made the purchase!** This is on you guys… 
+
+[Google Sheets Wishlist](https://docs.google.com/spreadsheets/d/1-v5HJPtOkX5rz38YPrPO36PbpettuLatJoTZVUUDOFo/edit?usp=sharing)
 
 ### Please no more…
 
