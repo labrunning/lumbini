@@ -1,0 +1,16 @@
+############################
+## CHANGE THESE
+############################
+
+baseURL: 'https://labrunning.github.io/qubt'
+title: Lumbini
+
+############################
+## MISC
+############################
+
+enableEmoji: true
+disableKinds: ['taxonomy', 'term']
+languageCode: 'en-us'
+
+
