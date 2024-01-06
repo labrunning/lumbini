@@ -2,7 +2,6 @@
 title: Wishlist
 subtitle: Not enough yatchs ⛵
 date: 2024-01-05
-
 ---
 
 I am trying to reduce the number of yatchs I fund for [Jeffrey Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos). As a result, I am adding a wishlist here for those people who are generous and kind enough to buy me a present. It's not as fancy as an Amazon wishlist, but I think together, we can make it work.
