@@ -22,6 +22,12 @@ There's always lots of video games on my Steam wishlist.
 
 [Steam Gift Cards](https://store.steampowered.com/digitalgiftcards/)
 
+### Bandcamp
+
+Buy me a CD from Bandcamp! Let me know though so I can take it off the list.. 
+
+[Bandcamp CD Wishlist](https://bandcamp.com/lukebrunning/wishlist)
+
 ## But I want to BUY you something
 
 Okey, I hear you. Here's a Google spreadsheet with some ideas on. You'll need a google account to use this but honestly who doesn't have one of those. **But please add something to the "Purchased" column so others know you've made the purchase!** This is on you guys… 
