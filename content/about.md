@@ -10,11 +10,13 @@ icon: "💻"
 ---
 
 - 🏠 [Home Assistant](https://www.home-assistant.io)
-- 🧑‍🚀 [CMDR Lukas Vance](https://www.edsm.net/en/user/badges/id/87399/cmdr/Lukas+Vance)
+- 🚀 [CMDR Lukas Vance](https://inara.cz/elite/cmdr/187773/)
+- 🌠 [CMDR Lukas Vance](https://www.edsm.net/en/user/badges/id/87399/cmdr/Lukas+Vance)
 - 🕹️ [Lukas Vance](https://steamcommunity.com/profiles/76561197965672854/)
 - 💸 [MoneyWiz](https://www.wiz.money)
 - ☕ [White Rose Coffee Roasters](https://whiterosecoffeeroasters.co.uk)
-- 🍖 [Gardens Farm Butchers](https://www.facebook.com/gardensfarmdoorstepdeliveries/)
+- 🍖 [Gardens Farm Butchers](https://gardensfarm.uk/)
+- 🍼 [Milk Delivery](https://www.sbriggandsons.co.uk/)
 - 🥕 [Roots](https://rootswholefood.co.uk/)
-- 🍺 ❌ [Lucky Saint](https://luckysaint.co)
+- 🍺 [Vocation](https://www.vocationbrewery.com/)
 - 🧑‍🍳 [Paprika](https://www.paprikaapp.com)
